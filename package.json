@@ -1,14 +1,12 @@
 {
-  "author": {
-    "name": "Luan Amaro"
-  },
+  "author": "Luan Amaro",
   "bugs": {
     "url": "https://github.com/react-native-community/react-native-image-picker/issues"
   },
+  "description": "A React Native module that allows you to use native UI to select media from the device library or directly from the camera",
   "bundleDependencies": false,
   "dependencies": {},
   "deprecated": false,
-  "description": "",
   "devDependencies": {
     "@babel/core": "^7.4.5",
     "@babel/runtime": "^7.4.5",
