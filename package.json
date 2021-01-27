@@ -43,24 +43,6 @@
     "url": "https://github.com/react-native-community/react-native-image-picker/issues"
   },
   "bundleDependencies": false,
-  "contributors": [
-    {
-      "name": "Johan du Toit",
-      "email": "jdutoit.dev@gmail.com"
-    },
-    {
-      "name": "Matheus Santos",
-      "email": "vorj.dux@gmail.com"
-    },
-    {
-      "name": "Yoann Fuks",
-      "email": "yfuks@student.42.fr"
-    },
-    {
-      "name": "Alexander Ustinov",
-      "email": "rusfearuth@gmail.com"
-    }
-  ],
   "dependencies": {},
   "deprecated": false,
   "description": "A React Native module that allows you to use native UI to select media from the device library or directly from the camera",
