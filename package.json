@@ -1,40 +1,4 @@
 {
-  "@react-native-community/bob": {
-    "source": "src",
-    "output": "lib",
-    "targets": [
-      [
-        "commonjs",
-        {
-          "flow": true
-        }
-      ],
-      "module",
-      "typescript"
-    ]
-  },
-  "_from": "git+https://github.com/LuanAmaro/react-native-image-picker.git",
-  "_id": "react-native-image-picker@2.3.4",
-  "_inBundle": false,
-  "_integrity": "",
-  "_location": "/react-native-image-picker",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "git",
-    "raw": "react-native-image-picker@git+https://github.com/LuanAmaro/react-native-image-picker.git",
-    "name": "react-native-image-picker",
-    "escapedName": "react-native-image-picker",
-    "rawSpec": "git+https://github.com/LuanAmaro/react-native-image-picker.git",
-    "saveSpec": "git+https://github.com/LuanAmaro/react-native-image-picker.git",
-    "fetchSpec": "https://github.com/LuanAmaro/react-native-image-picker.git",
-    "gitCommittish": null
-  },
-  "_requiredBy": [
-    "/"
-  ],
-  "_resolved": "git+https://github.com/LuanAmaro/react-native-image-picker.git#7a172ef925e2f5ff692a55ee5d54eb9333d16990",
-  "_spec": "react-native-image-picker@git+https://github.com/LuanAmaro/react-native-image-picker.git",
-  "_where": "/Users/tecnobit/apps/DIPO/dipo",
   "author": {
     "name": "Marc Shilling",
     "url": "marcshilling"
